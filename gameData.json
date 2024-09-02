@@ -1,0 +1,31 @@
+{
+    "2024-09-01": [
+        {
+            "words": ["Quasar", "Pulsar", "Nebula", "Supernova"]
+        },
+        {
+            "words": ["Graphite", "Diamond", "Fullerene", "Graphene"]
+        },
+        {
+            "words": ["Cheetah", "Jaguar", "Leopard", "Puma"]
+        },
+        {
+            "words": ["Sonata", "Symphony", "Overture", "Concerto"]
+        }
+    ],
+    "2024-09-02": [
+        {
+            "words": ["Einstein", "Newton", "Curie", "Tesla"]
+        },
+        {
+            "words": ["Oboe", "Clarinet", "Bassoon", "Flute"]
+        },
+        {
+            "words": ["Fjord", "Geyser", "Volcano", "Archipelago"]
+        },
+        {
+            "words": ["Mezzo", "Soprano", "Alto", "Contralto"]
+        }
+    ]
+    // Add more dates and groups as needed
+}
