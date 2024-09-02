@@ -1,4 +1,4 @@
-{    
+{
     "2024-09-01": [
         {
             "words": ["Quasar", "Pulsar", "Nebula", "Supernova"]
@@ -40,6 +40,383 @@
         {
             "words": ["Opera", "Sonnet", "Ballad", "Lullaby"]
         }
+    ],
+    "2024-09-04": [
+        {
+            "words": ["Renaissance", "Baroque", "Classical", "Romantic"]
+        },
+        {
+            "words": ["Whale", "Dolphin", "Shark", "Seal"]
+        },
+        {
+            "words": ["Galaxy", "Universe", "Nebula", "Star"]
+        },
+        {
+            "words": ["Python", "JavaScript", "Java", "Ruby"]
+        }
+    ],
+    "2024-09-05": [
+        {
+            "words": ["Guitar", "Piano", "Drum", "Violin"]
+        },
+        {
+            "words": ["Rock", "Jazz", "Pop", "Classical"]
+        },
+        {
+            "words": ["Moon", "Sun", "Planet", "Star"]
+        },
+        {
+            "words": ["Mountain", "River", "Forest", "Desert"]
+        }
+    ],
+    "2024-09-06": [
+        {
+            "words": ["Lion", "Tiger", "Bear", "Wolf"]
+        },
+        {
+            "words": ["Jazz", "Blues", "Rock", "Hip-Hop"]
+        },
+        {
+            "words": ["Table", "Chair", "Sofa", "Desk"]
+        },
+        {
+            "words": ["Cat", "Dog", "Bird", "Fish"]
+        }
+    ],
+    "2024-09-07": [
+        {
+            "words": ["Sunflower", "Rose", "Tulip", "Lily"]
+        },
+        {
+            "words": ["Pen", "Pencil", "Marker", "Crayon"]
+        },
+        {
+            "words": ["Mars", "Venus", "Earth", "Jupiter"]
+        },
+        {
+            "words": ["Couch", "Bed", "Desk", "Chair"]
+        }
+    ],
+    "2024-09-08": [
+        {
+            "words": ["Cherry", "Apple", "Banana", "Orange"]
+        },
+        {
+            "words": ["Shirt", "Pants", "Jacket", "Shoes"]
+        },
+        {
+            "words": ["Laptop", "Phone", "Tablet", "Watch"]
+        },
+        {
+            "words": ["Ocean", "Lake", "River", "Stream"]
+        }
+    ],
+    "2024-09-09": [
+        {
+            "words": ["Antarctica", "Asia", "Africa", "Europe"]
+        },
+        {
+            "words": ["Telescope", "Microscope", "Binoculars", "Camera"]
+        },
+        {
+            "words": ["Car", "Bike", "Bus", "Train"]
+        },
+        {
+            "words": ["Space", "Time", "Gravity", "Quantum"]
+        }
+    ],
+    "2024-09-10": [
+        {
+            "words": ["Chocolate", "Vanilla", "Strawberry", "Mint"]
+        },
+        {
+            "words": ["Sun", "Moon", "Comet", "Asteroid"]
+        },
+        {
+            "words": ["Oxygen", "Hydrogen", "Carbon", "Nitrogen"]
+        },
+        {
+            "words": ["Book", "Magazine", "Newspaper", "Journal"]
+        }
+    ],
+    "2024-09-11": [
+        {
+            "words": ["Plane", "Helicopter", "Jet", "Glider"]
+        },
+        {
+            "words": ["Mountains", "Valleys", "Caves", "Rivers"]
+        },
+        {
+            "words": ["Physics", "Chemistry", "Biology", "Math"]
+        },
+        {
+            "words": ["History", "Geography", "Politics", "Economics"]
+        }
+    ],
+    "2024-09-12": [
+        {
+            "words": ["Tropical", "Desert", "Temperate", "Arctic"]
+        },
+        {
+            "words": ["Phone", "Tablet", "Smartwatch", "Laptop"]
+        },
+        {
+            "words": ["Cup", "Plate", "Fork", "Knife"]
+        },
+        {
+            "words": ["Soap", "Shampoo", "Toothpaste", "Toothbrush"]
+        }
+    ],
+    "2024-09-13": [
+        {
+            "words": ["Oak", "Pine", "Maple", "Birch"]
+        },
+        {
+            "words": ["Gold", "Silver", "Bronze", "Platinum"]
+        },
+        {
+            "words": ["Fishing", "Hiking", "Camping", "Biking"]
+        },
+        {
+            "words": ["Europe", "Asia", "Africa", "America"]
+        }
+    ],
+    "2024-09-14": [
+        {
+            "words": ["Table", "Chair", "Lamp", "Sofa"]
+        },
+        {
+            "words": ["Play", "Pause", "Stop", "Record"]
+        },
+        {
+            "words": ["Football", "Basketball", "Baseball", "Soccer"]
+        },
+        {
+            "words": ["Running", "Swimming", "Cycling", "Walking"]
+        }
+    ],
+    "2024-09-15": [
+        {
+            "words": ["Sandwich", "Pizza", "Burger", "Pasta"]
+        },
+        {
+            "words": ["Red", "Blue", "Green", "Yellow"]
+        },
+        {
+            "words": ["Laptop", "Monitor", "Keyboard", "Mouse"]
+        },
+        {
+            "words": ["Beach", "Mountain", "Forest", "Desert"]
+        }
+    ],
+    "2024-09-16": [
+        {
+            "words": ["Laptop", "Tablet", "Smartphone", "Monitor"]
+        },
+        {
+            "words": ["Sunflower", "Daisy", "Orchid", "Tulip"]
+        },
+        {
+            "words": ["Dragon", "Unicorn", "Fairy", "Elf"]
+        },
+        {
+            "words": ["Cat", "Dog", "Bird", "Fish"]
+        }
+    ],
+    "2024-09-17": [
+        {
+            "words": ["Night", "Day", "Sunset", "Dawn"]
+        },
+        {
+            "words": ["Beer", "Wine", "Whiskey", "Vodka"]
+        },
+        {
+            "words": ["Train", "Bus", "Car", "Bicycle"]
+        },
+        {
+            "words": ["Piano", "Guitar", "Violin", "Drums"]
+        }
+    ],
+    "2024-09-18": [
+        {
+            "words": ["Dog", "Cat", "Bird", "Fish"]
+        },
+        {
+            "words": ["Sun", "Moon", "Stars", "Galaxy"]
+        },
+        {
+            "words": ["Book", "Magazine", "Newspaper", "Journal"]
+        },
+        {
+            "words": ["Apple", "Banana", "Cherry", "Date"]
+        }
+    ],
+    "2024-09-19": [
+        {
+            "words": ["Ocean", "Sea", "Lake", "River"]
+        },
+        {
+            "words": ["Shirt", "Pants", "Jacket", "Shoes"]
+        },
+        {
+            "words": ["Guitar", "Drum", "Piano", "Violin"]
+        },
+        {
+            "words": ["Chocolate", "Vanilla", "Strawberry", "Mint"]
+        }
+    ],
+    "2024-09-20": [
+        {
+            "words": ["City", "Town", "Village", "Suburb"]
+        },
+        {
+            "words": ["Fish", "Shrimp", "Crab", "Lobster"]
+        },
+        {
+            "words": ["Football", "Basketball", "Tennis", "Baseball"]
+        },
+        {
+            "words": ["Dog", "Cat", "Rabbit", "Hamster"]
+        }
+    ],
+    "2024-09-21": [
+        {
+            "words": ["Mars", "Jupiter", "Saturn", "Uranus"]
+        },
+        {
+            "words": ["Music", "Dance", "Sing", "Play"]
+        },
+        {
+            "words": ["Bicycle", "Car", "Bus", "Train"]
+        },
+        {
+            "words": ["Gold", "Silver", "Bronze", "Platinum"]
+        }
+    ],
+    "2024-09-22": [
+        {
+            "words": ["Rain", "Sun", "Cloud", "Snow"]
+        },
+        {
+            "words": ["Piano", "Guitar", "Drums", "Flute"]
+        },
+        {
+            "words": ["Soup", "Salad", "Bread", "Cheese"]
+        },
+        {
+            "words": ["Pen", "Pencil", "Marker", "Crayon"]
+        }
+    ],
+    "2024-09-23": [
+        {
+            "words": ["Laptop", "Desktop", "Tablet", "Phone"]
+        },
+        {
+            "words": ["Hot", "Cold", "Warm", "Cool"]
+        },
+        {
+            "words": ["Mountain", "Valley", "Forest", "Lake"]
+        },
+        {
+            "words": ["Bird", "Fish", "Mammal", "Reptile"]
+        }
+    ],
+    "2024-09-24": [
+        {
+            "words": ["New York", "Los Angeles", "Chicago", "Houston"]
+        },
+        {
+            "words": ["Giraffe", "Elephant", "Lion", "Tiger"]
+        },
+        {
+            "words": ["Apple", "Banana", "Orange", "Grape"]
+        },
+        {
+            "words": ["Doctor", "Nurse", "Pharmacist", "Dentist"]
+        }
+    ],
+    "2024-09-25": [
+        {
+            "words": ["Beach", "Pool", "Lake", "Ocean"]
+        },
+        {
+            "words": ["Train", "Plane", "Bus", "Car"]
+        },
+        {
+            "words": ["Chair", "Table", "Sofa", "Bed"]
+        },
+        {
+            "words": ["Book", "Magazine", "Newspaper", "Journal"]
+        }
+    ],
+    "2024-09-26": [
+        {
+            "words": ["Star", "Planet", "Galaxy", "Comet"]
+        },
+        {
+            "words": ["TV", "Radio", "Internet", "Phone"]
+        },
+        {
+            "words": ["Egg", "Milk", "Bread", "Cheese"]
+        },
+        {
+            "words": ["Bed", "Sofa", "Desk", "Chair"]
+        }
+    ],
+    "2024-09-27": [
+        {
+            "words": ["Bread", "Butter", "Jam", "Honey"]
+        },
+        {
+            "words": ["Coffee", "Tea", "Juice", "Milk"]
+        },
+        {
+            "words": ["Car", "Bike", "Bus", "Train"]
+        },
+        {
+            "words": ["Cat", "Dog", "Bird", "Fish"]
+        }
+    ],
+    "2024-09-28": [
+        {
+            "words": ["Planet", "Star", "Galaxy", "Nebula"]
+        },
+        {
+            "words": ["Spoon", "Fork", "Knife", "Plate"]
+        },
+        {
+            "words": ["Shoes", "Hat", "Gloves", "Scarf"]
+        },
+        {
+            "words": ["Paper", "Pen", "Notebook", "Eraser"]
+        }
+    ],
+    "2024-09-29": [
+        {
+            "words": ["Sundae", "Cake", "Pie", "Cookies"]
+        },
+        {
+            "words": ["Laptop", "Phone", "Tablet", "Smartwatch"]
+        },
+        {
+            "words": ["Spring", "Summer", "Fall", "Winter"]
+        },
+        {
+            "words": ["Pencil", "Eraser", "Sharpener", "Notebook"]
+        }
+    ],
+    "2024-09-30": [
+        {
+            "words": ["Galaxy", "Universe", "Nebula", "Quasar"]
+        },
+        {
+            "words": ["Chalk", "Marker", "Pen", "Pencil"]
+        },
+        {
+            "words": ["Butter", "Cheese", "Milk", "Yogurt"]
+        },
+        {
+            "words": ["Camera", "Phone", "Tablet", "Computer"]
+        }
     ]
 }
-
